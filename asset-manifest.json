@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myrobots/static/css/main.ecc2e66c.css",
+    "main.js": "/myrobots/static/js/main.f1b78483.js",
+    "static/js/787.13ca45e4.chunk.js": "/myrobots/static/js/787.13ca45e4.chunk.js",
+    "static/media/Gumball.woff": "/myrobots/static/media/Gumball.2c507932a4dd8be0bf3d.woff",
+    "index.html": "/myrobots/index.html",
+    "main.ecc2e66c.css.map": "/myrobots/static/css/main.ecc2e66c.css.map",
+    "main.f1b78483.js.map": "/myrobots/static/js/main.f1b78483.js.map",
+    "787.13ca45e4.chunk.js.map": "/myrobots/static/js/787.13ca45e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc2e66c.css",
+    "static/js/main.f1b78483.js"
+  ]
+}
